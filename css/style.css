@@ -1,0 +1,17 @@
+.lang-switcher {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.lang-switcher a {
+   margin-right: 7px;
+}
+.undertext {
+    letter-spacing: 0.15em;
+    font-size: 100%;
+}
+.red {
+    color: red;
+}
+.footer_contacts {
+    padding-right: 10px;
+}
